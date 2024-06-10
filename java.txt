@@ -1,0 +1,5 @@
+ Iwant to code daily and become the world's greatest AI analyst
+ I will work very hard to make this happen
+ 1.To add and replace text in a text file, use the syntax below: echo ' statement' > txtfile. 2. To add text, use: echo 'statement' >> textfile 
+ 1.To add and replace text in a text file, use the syntax below: echo ' statement' > txtfile. 2. To add text, use: echo 'statement' >> textfile 
+ 1.To add and replace text in a text file, use the syntax below: echo ' statement' > txtfile. 2. To add text, use: echo 'statement' >> textfile 
